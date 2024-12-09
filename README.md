@@ -11,6 +11,7 @@ _diabetes_model_building.ipynb_: this notebook covers EDA, model selection via A
 _diabetes_model_inference.ipynb_: this notebook covers model inference on test set and model monitoring report generation before and after feature swapping to compare the differences.
 
 **Video Demo**:
+
 _mlops demo.mp4_: this video is a quick demo to show how to seamlessly run workflows created on Databricks and analyze the inference results of model metrics and monitoring reports logged by mlflow experiments. 
 
 
