@@ -2,7 +2,9 @@
 
 This project builds machine learning models to predict whether a person has diabetes or not(classificiation problem). The entire code development process was conducted on Databricks. 
 
-**Dataset**: _diabetes.csv_
+**Dataset**: 
+
+_diabetes.csv_
 
 **Code Notebooks**:
 
